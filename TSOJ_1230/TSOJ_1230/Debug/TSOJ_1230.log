@@ -1,0 +1,6 @@
+﻿  TSOJ_1230源.cpp
+c:\users\shan-wood\desktop\tsoj\tsoj_1230\tsoj_1230\tsoj_1230源.cpp(10): warning C4101: “d”: 未引用的局部变量
+c:\users\shan-wood\desktop\tsoj\tsoj_1230\tsoj_1230\tsoj_1230源.cpp(27): warning C4101: “v”: 未引用的局部变量
+c:\users\shan-wood\desktop\tsoj\tsoj_1230\tsoj_1230\tsoj_1230源.cpp(27): warning C4101: “c”: 未引用的局部变量
+c:\users\shan-wood\desktop\tsoj\tsoj_1230\tsoj_1230\tsoj_1230源.cpp(27): warning C4101: “d”: 未引用的局部变量
+  TSOJ_1230.vcxproj -> C:\Users\shan-wood\Desktop\TSOJ\TSOJ_1230\Debug\TSOJ_1230.exe
