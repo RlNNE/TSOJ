@@ -1,4 +1,4 @@
-/*TSOJ_1005¹«Ô¼Êý*/
+/*TSOJ_1005*/
 #include<stdio.h>
 #include<stdlib.h>
 
